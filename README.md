@@ -6,9 +6,9 @@ Hey there! Are you ready to embark on an amazing journey through the realms of t
 
 ## Choose Your Language:
 
-🌟 [English](README_en.md): Tales of Technology: A Journey through the Spring Framework and Beyond!
+🌟 [English](SpringFramework_en.md): Tales of Technology: A Journey through the Spring Framework and Beyond!
 
-🌟 [Português](README_pt.md): Contos de Tecnologia: Uma jornada pelo Spring Framework e além!
+🌟 [Português](SpringFramework_pt.md): Contos de Tecnologia: Uma jornada pelo Spring Framework e além!
 
 Pick the language that suits your magic wand and get ready for an enchanting experience!
 
