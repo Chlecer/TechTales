@@ -74,6 +74,9 @@ The Spring Framework is filled with magical modules that make application develo
 20. **Spring Session** - The Secret to Session Management 💡💻
     Unveil the secret to session management with Spring Session! This magical module allows you to cast spells to manage sessions efficiently, providing an enchanting experience to users.
 
+21. **Spring Actuator** - The Observability Secret 🌍  
+    The Spring Boot Actuator is a set of features that provide information about the state and performance of our Spring Boot application. It allows you to monitor your application, collect diagnostic data, and manage your configuration.
+
 ## Why use Spring? 🌟
 
 We use Spring because it makes life easier for programmers. It helps us write less repetitive code, test our applications more easily, and create amazing things faster! And best of all, we have a magical community that always helps when we need assistance or want to share knowledge!
