@@ -8,7 +8,7 @@ O Spring Boot é uma framework Java madura e completa com uma ampla gama de recu
 
 O Spring Boot é desenvolvido pela SpringSource, uma subsidiária da VMware.
 
-## Micronaut [PT](micronaut_pt.md)|[EN](micronaut_en.md)|
+## Micronaut [PT](micronaut_pt.md)|[EN](micronaut_en.md)
 
 O Micronaut é uma framework Java mais recente e mais leve do que o Spring Boot. É projetado para ser rápido, leve e fácil de usar.
 
