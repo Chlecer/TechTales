@@ -6,9 +6,9 @@ Hey there! Are you ready to embark on an amazing journey through the realms of t
 
 ## Choose Your Language:
 
-🌟 [English](SpringFramework_en.md): Tales of Technology: A Journey through the Spring Framework, Quarkus, Micronaut and Beyond!
+🌟 [English](spring-boot-vs-quarkus-vs-micronaut_en.md): Tales of Technology: A Journey through the Spring Framework, Quarkus, Micronaut and Beyond!
 
-🌟 [Português](SpringFramework_pt.md): Contos de Tecnologia: Uma jornada pelo Spring Framework, Quarkus, Micronaut e além!
+🌟 [Português](spring-boot-vs-quarkus-vs-micronaut_pt.md): Contos de Tecnologia: Uma jornada pelo Spring Framework, Quarkus, Micronaut e além!
 
 Pick the language that suits your magic wand and get ready for an enchanting experience!
 
