@@ -2,19 +2,19 @@
 
 Java é uma das linguagens de programação mais populares do mundo e existem várias frameworks Java disponíveis para escolher. Isso pode dificultar a escolha da framework certa para o seu projeto. Neste artigo, vamos comparar três das frameworks Java mais populares: Spring Boot, Micronaut e Quarkus.
 
-## Spring Boot
+## [Spring](SpringFramework_pt.md) Boot
 
 O Spring Boot é uma framework Java madura e completa com uma ampla gama de recursos. É fácil de usar e pode ser usado para criar uma variedade de aplicações Java, incluindo web, desktop e mobile.
 
 O Spring Boot é desenvolvido pela SpringSource, uma subsidiária da VMware.
 
-## Micronaut
+## [Micronaut](micronaut_pt.md)
 
 O Micronaut é uma framework Java mais recente e mais leve do que o Spring Boot. É projetado para ser rápido, leve e fácil de usar.
 
 O Micronaut é desenvolvido pela Micronaut.io, uma empresa fundada por Graeme Rocher.
 
-## Quarkus
+## [Quarkus](quarkus_pt.md)
 
 O Quarkus é uma framework Java semelhante ao Micronaut. É projetado para ser rápido, leve e fácil de usar.
 
