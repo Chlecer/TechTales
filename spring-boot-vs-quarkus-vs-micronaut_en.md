@@ -8,13 +8,13 @@ Spring Boot is a mature and comprehensive Java framework with a wide range of fe
 
 Spring Boot is developed by SpringSource, a subsidiary of VMware.
 
-## Micronaut
+## [Micronaut](micronaut_en.md)
 
 Micronaut is a newer and lighter Java framework compared to Spring Boot. It is designed to be fast, lightweight, and easy to use.
 
 Micronaut is developed by Micronaut.io, a company founded by Graeme Rocher.
 
-## Quarkus
+## [Quarkus](quarkus_en.md)
 
 Quarkus is a Java framework similar to Micronaut. It is designed to be fast, lightweight, and easy to use.
 
